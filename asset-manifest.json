@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/GenWork/static/css/main.481d8110.css",
-    "main.js": "/GenWork/static/js/main.d7bf3ed0.js",
+    "main.css": "/GenWork/static/css/main.11cf8f44.css",
+    "main.js": "/GenWork/static/js/main.0a9ec744.js",
     "static/js/787.ef714cb0.chunk.js": "/GenWork/static/js/787.ef714cb0.chunk.js",
     "index.html": "/GenWork/index.html",
-    "main.481d8110.css.map": "/GenWork/static/css/main.481d8110.css.map",
-    "main.d7bf3ed0.js.map": "/GenWork/static/js/main.d7bf3ed0.js.map",
+    "main.11cf8f44.css.map": "/GenWork/static/css/main.11cf8f44.css.map",
+    "main.0a9ec744.js.map": "/GenWork/static/js/main.0a9ec744.js.map",
     "787.ef714cb0.chunk.js.map": "/GenWork/static/js/787.ef714cb0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.481d8110.css",
-    "static/js/main.d7bf3ed0.js"
+    "static/css/main.11cf8f44.css",
+    "static/js/main.0a9ec744.js"
   ]
 }
